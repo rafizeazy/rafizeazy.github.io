@@ -298,7 +298,7 @@ const ExperienceSection = () => {
       icon: <Building size={18} />,
       role: "Developer",
       company: "LuckyNetwork SEA",
-      duration: "Feb 2023 - Present",
+      duration: "Feb 2023 - Jan 2025",
       description: [
         "Successfully lead LuckyNetwork development team, consisting of plugin developers, server setup specialists, and builders.",
         "Developed and maintained multiple Minecraft server plugins, including LuckyNetwork custom plugins for various game modes.",
